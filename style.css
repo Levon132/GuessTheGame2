@@ -1,0 +1,62 @@
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 50px;
+}
+
+h1 {
+	font-size: 3rem;
+	margin-bottom: 20px;
+}
+
+.game-image {
+	margin: 50px 0;
+	position: relative;
+}
+
+img {
+	max-width: 100%;
+}
+
+
+input[type="text"] {
+	padding: 10px;
+	font-size: 1.5rem;
+	margin-right: 10px;
+}
+
+button {
+	padding: 10px;
+	font-size: 1.5rem;
+	background-color: #008CBA;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #005B80;
+}
+
+p#result {
+	margin-top: 20px;
+	font-size: 1.5rem;
+}
+.Kontaktinfo {
+	margin-top: 50px;
+	padding: 20px;
+	background-color: gray;
+	text-align: center;
+}
+
+.Kontaktinfo h2 {
+	font-size: 2rem;
+	margin-bottom: 20px;
+}
+
+.Kontaktinfo p {
+	font-size: 1.2rem;
+	margin: 10px 0;
+}
